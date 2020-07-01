@@ -1,1 +1,1 @@
-# example_repo
+DWA PRZYKŁADOWE MINIPROGRAMY - JAVA
